@@ -139,6 +139,11 @@ p {
   margin: 20px 10px;
 }
 
+textarea {
+  width: 800px;
+  height: 300px;
+}
+
 @media (max-width: 1028px) {
 
   #title {
