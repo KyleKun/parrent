@@ -1,0 +1,23 @@
+{
+  "name": "parrent",
+  "version": "1.0.0",
+  "description": "Página ficcional feita para o trabalho de Programação Web (4°Sem - Unimetrocamp)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleKun/parrent.git"
+  },
+  "author": "KyleKun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyleKun/parrent/issues"
+  },
+  "homepage": "https://github.com/KyleKun/parrent#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

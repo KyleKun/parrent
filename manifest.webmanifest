@@ -1,0 +1,15 @@
+{
+    "name": "Parrent",
+    "short_name": "Parrent",
+    "theme_color": "#005f97",
+    "background_color": "#005f97",
+    "display": "standalone",
+    "start_url": ".",
+    "icons": [
+      {
+        "src": "/images/capa.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
